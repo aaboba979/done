@@ -3,7 +3,7 @@ __name__ = "троляка"
 __description__ = ".help в избранное "
 __author__ = "gfijr "
 __version__ = "первое поколение"
-__icon__ = "exteraPlugins/1488"
+__icon__ = "exteraPlugins/DenisTrollyaka"
 __min_version__ = "11.12.0"
 
 _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
